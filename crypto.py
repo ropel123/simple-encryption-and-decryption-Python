@@ -1,4 +1,3 @@
-from base64 import *
 nama = 'satrio'
 key = 'abc'
 c = ''
